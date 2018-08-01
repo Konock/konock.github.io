@@ -1,0 +1,17 @@
+html {
+  background-color: gainsboro;
+}
+body {
+  font-family: Montserrat;
+  text-align: center;
+  background-color: white;
+  border: 10px dashed orange;
+  width: 75%;
+  height: 100vh;
+  margin: 0 auto 0 auto;
+}
+img {
+  display: block;
+  float: right;
+  max-width: 300px;
+}
